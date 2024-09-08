@@ -1,0 +1,14 @@
+.winner {
+    display: flex;
+    justify-content: center;
+}
+
+.winner span {
+    color: #0ecbcb;
+    font-size: 30px;
+}
+
+.winner text {
+    font-size: 20px;
+    padding: 10px;
+}
